@@ -3,7 +3,7 @@ name: User story
 about: "<РОЛЬ пользователя>, я <что-то хочу получить ДЕЙСТВИЕ>, <с такой-то целью
   ЦЕННОСТЬ>"
 title: ''
-labels: ТРПО
+labels: User story
 assignees: '89607408849'
 
 ---
